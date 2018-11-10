@@ -1,0 +1,1 @@
+theScore = 0;
